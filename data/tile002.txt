@@ -1,0 +1,3 @@
+id 2
+solid true
+path data/tile002.png
